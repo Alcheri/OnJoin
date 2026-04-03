@@ -10,14 +10,17 @@ import supybot.registry as registry
 
 try:
     from supybot.i18n import PluginInternationalization
+
     _ = PluginInternationalization("OnJoin")
 except:
     _ = lambda x: x
+
 
 def configure(advanced):
     from supybot.questions import expect, anything, something, yn
 
     conf.registerPlugin("OnJoin", True)
+
 
 OnJoin = conf.registerPlugin("OnJoin")
 

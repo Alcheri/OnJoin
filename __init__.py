@@ -8,6 +8,7 @@
 """
 OnJoin: Send a notice to all users entering a channel.
 """
+
 import sys
 
 if sys.version_info <= (3, 6):
