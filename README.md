@@ -1,6 +1,8 @@
+<!--- OnJoin - Send a random (humorous) notice to a user entering an IRC channel. --->
+
 # OnJoin
 
-Send a random notice to a user entering a channel.
+Send a random (humorous) notice to a user entering an IRC channel.
 
 ## Configuring
 
