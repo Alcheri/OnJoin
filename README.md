@@ -1,4 +1,4 @@
-<!--- OnJoin - Send a random (humorous) notice to a user entering an IRC channel. --->
+<!-- OnJoin - Send a random (humorous) notice to a user entering an IRC channel. -->
 
 # OnJoin
 
